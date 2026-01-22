@@ -1,0 +1,6 @@
+[submodule "external/build-ia16"]
+	path = external/build-ia16
+	url = https://gitlab.com/tkchia/build-ia16
+[submodule "external/build-djgpp"]
+	path = external/build-djgpp
+	url = https://github.com/andrewwutw/build-djgpp

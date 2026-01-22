@@ -1,4 +1,4 @@
-# pc platform configuration
+# PC platform configuration
 
 # Platform-specific source files
 set(PLATFORM_SOURCES

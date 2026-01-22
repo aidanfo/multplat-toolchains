@@ -1,4 +1,4 @@
-# pc-xt platform configuration
+# PC_XT platform configuration
 
 # Set platform-specific compiler and linker flags
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -march=i8088" CACHE STRING "" FORCE)

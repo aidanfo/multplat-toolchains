@@ -1,4 +1,4 @@
-# pc-9801 platform configuration
+# PC_9801 platform configuration
 
 # Set platform-specific compiler and linker flags
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -march=i8086" CACHE STRING "" FORCE)
